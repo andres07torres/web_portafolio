@@ -4,7 +4,7 @@
 
 Este es mi portafolio personal desarrollado con **React**, **TypeScript** y **Tailwind CSS**. Aquí muestro mi trayectoria profesional, mi stack tecnológico y mis proyectos destacados.
 
-## 🛠️ Tecnologías utilizadas ##
+## 🛠️ Tecnologías utilizadas
 
 - **Frontend**:  
   ⚛️ React.js &nbsp; | &nbsp; 🟦 TypeScript  
